@@ -1,1 +1,0 @@
-This is testing if adding a file with same name is bad.
